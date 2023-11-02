@@ -1,12 +1,12 @@
 AIM: What is BroadcastReceiver? Difference between Service and BroadcastReceiver. Create an Alarm application by using service & BroadcastReceiver by following below instructions.
 
-Create MainActivity according to below UI design.
+1. Create MainActivity according to below UI design.
 
-Create AlarmBroadcastReceiver class
+2. Create AlarmBroadcastReceiver class
 
-Create AlarmService Class
+3. Create AlarmService Class
 
-Add android.permission.SCHEDULE_EXACT_ALARM Permission in Manifest file
+4. Add android.permission.SCHEDULE_EXACT_ALARM Permission in Manifest file
 
 OUTPUT:
 
